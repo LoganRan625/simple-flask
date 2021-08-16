@@ -1,5 +1,13 @@
 #!/bin/python3
 
+# CS50 Harvard course
+# 2018-2020
+
+# NAME: Flask App
+# TYPE: python webframe work
+# DATE: 08/10/21
+# GOAL: watch class and write program based on what i learn
+
 from flask import Flask, render_template, request
 
 app = Flask(__name__)
